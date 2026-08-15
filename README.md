@@ -1,2 +1,2 @@
-# C-Console-Projects-
+# Console-Projects
 It's a group of Console Projects
