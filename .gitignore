@@ -18,3 +18,15 @@ publish/
 ## Local Environment & Secret Settings
 appsettings*.local.json
 *.env
+
+## Visual Studio Hidden Folder & Cache (Fixes your Git Changes list)
+.vs/
+*.wsuo
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sqlite
+
+# Ignore the entire PrivateProject folder
+Basics/
