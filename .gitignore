@@ -1,0 +1,20 @@
+## Visual Studio Build Outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio Cache & Local User Files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Test Results & Publish Output
+TestResults/
+publish/
+
+## Local Environment & Secret Settings
+appsettings*.local.json
+*.env
